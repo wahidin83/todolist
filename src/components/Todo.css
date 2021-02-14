@@ -1,0 +1,18 @@
+.container{
+    background-color: salmon;
+    width: 50%;
+    margin: auto;   
+    border-radius: 20px;
+    padding: 20px; 
+    margin-top: 10px;
+    
+}
+
+.todo{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.inputTodo{
+    border-radius: 10px;
+}
